@@ -1,4 +1,4 @@
-<script>
+
     const person = {
         name: 'skandar',
         age: 24
@@ -22,4 +22,4 @@
         cloned3[key] = person[key];
     }
     console.log(cloned3)
-</script>
+
